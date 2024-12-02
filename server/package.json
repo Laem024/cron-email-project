@@ -1,0 +1,11 @@
+{
+    "name": "cron-email-service",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+      "node-cron": "^3.0.2",
+      "nodemailer": "^6.9.1",
+      "pg": "^8.11.0"
+    }
+  }
+  
